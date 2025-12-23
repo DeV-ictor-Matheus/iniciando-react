@@ -1,0 +1,12 @@
+/*.App-header {
+    background-color: #FFF;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+}*/
+/*Arquivo enviado para o "Header/index.js" para ser utilizado como styled-components. Sendo assim, neste caso poderia ser excluído para deixar o arquivo como um todo mais limpo e facilitar manutenção.
+Atenção para a escrita
+const HeaderContainer = styled.header`
+
+Pode ser Header com "H" maiúsculo por ser um componente, então não é camel-sensity
+Mantive este arquivo css para lembrete, os outros serão excluídos
